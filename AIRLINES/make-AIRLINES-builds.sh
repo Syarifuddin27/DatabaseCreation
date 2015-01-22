@@ -32,7 +32,7 @@ IFS=$OLDIFS
 ## AirLINES ##
 # Id, Airline, Abbreviation, Country
 if [ -a $AIRLINES_BUILD_FILE ] ; then
-   echo "Deleting $AIRLINES..."
+   echo "Deleting $AIRLINES_BUILD_FILE..."
    rm -v $AIRLINES_BUILD_FILE
 fi
 OLDIFS=$IFS
