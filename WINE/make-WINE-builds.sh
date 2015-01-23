@@ -42,7 +42,7 @@ tail -n +2 $appellations  | while read No Appelation County State Area isAVA
 do
    isAVA=$(echo $isAVA | tr -d '\r')
    IFS=$OLDIFS
-   insCmd="INSERT INTO appellations (No,Appelation,County,State,Area,isAVA)"
+   insCmd="INSERT INTO appellations (No,Appellation,County,State,Area,isAVA)"
    insCmd="$insCmd \nVALUES($No,$Appelation,$County,$State,$Area,$isAVA);"
    echo -e $insCmd >>  $appellationsBuild
    OLDIFS=$IFS
@@ -62,8 +62,8 @@ tail -n +2 $wine  | while read No Grape Winery Appelation State Name Year Price 
 do
    Drink=$(echo $Drink | tr -d '\r')
    IFS=$OLDIFS
-   insCmd="INSERT INTO wine (No,Grape,Winery,Appelation,State,Name,Year,Price,Score,Cases,Drink)"
-   insCmd="$insCmd \nVALUES($No,$Grape,$Winery,$Appelation,$State,$Name,$Year,$Price,$Score,$Cases,$Drink);"
+   insCmd="INSERT INTO wine (No,Grape,Winery,Appellation,Name,Year,Price,Score,Cases)"
+   insCmd="$insCmd \nVALUES($No,$Grape,$Winery,$Appelation,$Name,$Year,$Price,$Score,$Cases);"
    echo -e $insCmd >>  $wineBuild
    OLDIFS=$IFS
    IFS=,
