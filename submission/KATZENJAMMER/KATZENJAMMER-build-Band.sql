@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO Band (Id, Firstname, Lastname) 
 VALUES(1, 'Solveig', 'Heilo');
 INSERT INTO Band (Id, Firstname, Lastname) 

@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 SELECT * FROM continents;
 SELECT COUNT(*) FROM continents;
 

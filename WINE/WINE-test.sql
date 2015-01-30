@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 SELECT * FROM grapes;
 SELECT COUNT(*) FROM grapes;
 SELECT * FROM appellations;

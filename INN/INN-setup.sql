@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE rooms(
    RoomId         CHAR(10) PRIMARY KEY,
    roomName       CHAR(30),
@@ -18,5 +21,6 @@ CREATE TABLE reservations (
    FirstName   CHAR(30),
    Adults      INT,
    Kids        INT,
-   FOREIGN KEY(Room) REFERENCES rooms(RoomId)
+   FOREIGN KEY(Room) REFERENCES rooms(RoomId),
+   UNIQUE(Room, CheckIn)
 );

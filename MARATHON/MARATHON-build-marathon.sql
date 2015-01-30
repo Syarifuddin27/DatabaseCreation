@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO marathon (Place,RunTime,Pace,GroupPlace,GroupLabel,Age,Sex,BIBNumber, FirstName, LastName, Town, State) 
 VALUES(1,'1:09:47','00:5:20',1,'20-39',37,'M',340,'ANDRE', 'PELLAM', 'HALIFAX','MA');
 INSERT INTO marathon (Place,RunTime,Pace,GroupPlace,GroupLabel,Age,Sex,BIBNumber, FirstName, LastName, Town, State) 

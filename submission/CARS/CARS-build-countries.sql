@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO countries (CountryId, CountryName, Continent) 
 VALUES(1, 'usa',1);
 INSERT INTO countries (CountryId, CountryName, Continent) 

@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
 VALUES(1, 1, 'trumpet');
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
@@ -77,7 +80,7 @@ VALUES(9, 4, 'accordion');
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
 VALUES(10, 1, 'guitar');
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES('', 1, 'harmonica');
+VALUES(10, 1, 'harmonica');
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
 VALUES(10, 2, 'bass balalaika');
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 

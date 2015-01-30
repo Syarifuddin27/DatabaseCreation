@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO items (Receipt, Ordinal, Item) 
 VALUES(18129, 1, '70-TU');
 INSERT INTO items (Receipt, Ordinal, Item) 

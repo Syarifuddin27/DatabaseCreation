@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 SELECT * FROM goods;
 SELECT COUNT(*) FROM goods;
 

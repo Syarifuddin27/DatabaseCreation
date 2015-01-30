@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO carData (Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) 
 VALUES(1, 18, 8, 307, 130, 3504, 12, 1970);
 INSERT INTO carData (Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) 

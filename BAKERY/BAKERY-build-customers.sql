@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO customers (Id, LastName, FirstName) 
 VALUES(1, 'LOGAN', 'JULIET');
 INSERT INTO customers (Id, LastName, FirstName) 

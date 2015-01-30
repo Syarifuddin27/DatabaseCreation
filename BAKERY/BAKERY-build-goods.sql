@@ -1,3 +1,7 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
+
 INSERT INTO goods (Id, Flavor, Food, Price) 
 VALUES('20-BC-C-10', 'Chocolate', 'Cake', 8.95);
 INSERT INTO goods (Id, Flavor, Food, Price) 

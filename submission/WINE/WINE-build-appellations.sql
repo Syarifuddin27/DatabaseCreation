@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO appellations (No,Appellation,County,State,Area,isAVA) 
 VALUES(1,'Alexander Valley','Sonoma','California','North Coast','Yes');
 INSERT INTO appellations (No,Appellation,County,State,Area,isAVA) 

@@ -18,4 +18,3 @@ SELECT COUNT(*) FROM Performance;
 
 SELECT * FROM Vocals;
 SELECT COUNT(*) FROM Vocals;
-

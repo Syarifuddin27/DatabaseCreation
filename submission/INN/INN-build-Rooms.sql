@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO rooms (RoomId, roomName, beds, bedType, maxOccupancy, basePrice, decor) 
 VALUES('RND', 'Recluse and defiance', 1, 'King', 2, 150, 'modern');
 INSERT INTO rooms (RoomId, roomName, beds, bedType, maxOccupancy, basePrice, decor) 

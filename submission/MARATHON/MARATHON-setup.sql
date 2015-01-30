@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE marathon (
    Place        INT PRIMARY KEY,
    RunTime        TIME,

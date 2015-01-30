@@ -1,4 +1,10 @@
 #!/bin/bash
+
+# Jeffrey McGovern
+# jmcgover@calpoly.edu
+# Lab 2 
+# CPE 365
+
 AIRPORTS="airports100.csv"
 AIRLINES="airlines.csv"
 FLIGHTS="flights.csv"

@@ -1,2 +1,0 @@
-DROP TABLE teachers;
-CREATE TABLE list;

@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE Band(
    Id          INT PRIMARY KEY,
    Firstname   CHAR(30),

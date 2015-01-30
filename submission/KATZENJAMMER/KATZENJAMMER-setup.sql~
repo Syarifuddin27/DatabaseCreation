@@ -38,7 +38,7 @@ CREATE TABLE Performance(
 CREATE TABLE Vocals(
    SongId         INT REFERENCES Songs,
    Bandmate       INT REFERENCES Band,
-   Type           CHAR(10)
+   Type           CHAR(10),
    FOREIGN KEY(SongId) REFERENCES Songs(SongId),
    FOREIGN KEY(Bandmate) REFERENCES Band(Id)
 );

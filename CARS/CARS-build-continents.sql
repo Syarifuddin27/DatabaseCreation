@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO continents (ContId, Continent) 
 VALUES(1, 'america');
 INSERT INTO continents (ContId, Continent) 

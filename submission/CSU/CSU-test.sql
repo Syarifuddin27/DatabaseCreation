@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 SELECT * FROM csuFees;
 SELECT COUNT(*) FROM csuFees;
 SELECT * FROM faculty;

@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO list (LastName, FirstName, Grade, Classroom) 
 VALUES('CAR', 'MAUDE', 2, 101);
 INSERT INTO list (LastName, FirstName, Grade, Classroom) 

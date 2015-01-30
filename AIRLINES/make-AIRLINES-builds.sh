@@ -1,4 +1,10 @@
 #!/bin/bash
+
+# Jeffrey McGovern
+# jmcgover@calpoly.edu
+# Lab 2 
+# CPE 365
+
 AIRPORTS="airports100.csv"
 AIRLINES="airlines.csv"
 FLIGHTS="flights.csv"
@@ -21,7 +27,7 @@ do
    CountryAbbrev=$(echo $CountryAbbrev | tr -d '\r' | tr -d ' ')
    IFS=$OLDIFS
    insCmd="INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) "
-   insCmd="$insCmd \nVALUES($City, $AirportCode, $AirportName, $Country, $CountryAbbrev);"
+   insCmd="$insCmd \nVALUES($City, $AirportCode, $AirportName, $Country, $CountryAbbrev); SHOW WARNINGS;"
    echo -e $insCmd | tee -a $AIRPORTS_BUILD_FILE
    OLDIFS=$IFS
    IFS=,
@@ -44,7 +50,7 @@ do
       Country=$(echo $Country | tr -d '\r')
       IFS=$OLDIFS
       insCmd="INSERT INTO airlines (Id, Airline, Abbreviation, Country) "
-      insCmd="$insCmd \nVALUES($Id, $Airline, $Abbreviation, $Country);"
+      insCmd="$insCmd \nVALUES($Id, $Airline, $Abbreviation, $Country); SHOW WARNINGS;"
       echo -e $insCmd | tee -a $AIRLINES_BUILD_FILE
       OLDIFS=$IFS
       IFS=,
@@ -68,7 +74,7 @@ do
       Country=$(echo $Country | tr -d '\r')
       IFS=$OLDIFS
       insCmd="INSERT INTO flights (Airline, FlightNo, SourceAirport, DestAirport) "
-      insCmd="$insCmd \nVALUES($Airline, $FlightNo, $SourceAirport, $DestAirport);"
+      insCmd="$insCmd \nVALUES($Airline, $FlightNo, $SourceAirport, $DestAirport); SHOW WARNINGS;"
       echo -e $insCmd | tee -a $FLIGHTS_BUILD_FILE
       OLDIFS=$IFS
       IFS=,

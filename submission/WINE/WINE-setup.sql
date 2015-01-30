@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE grapes (
    ID       INT PRIMARY KEY,
    Grape    CHAR(30),

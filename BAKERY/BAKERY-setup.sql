@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE goods(
    Id          CHAR(30) PRIMARY KEY,
    Flavor      CHAR(30),
@@ -14,13 +17,15 @@ CREATE TABLE customers(
 CREATE TABLE receipts(
    ReceiptNumber  INT PRIMARY KEY,
    Date           DATE,
-   CustomerId     INT REFERENCES customers
+   CustomerId     INT,
+   FOREIGN KEY(CustomerId) REFERENCES customers(Id)
 );
 
 CREATE TABLE items(
    Receipt     INT,
    Ordinal     INT,
    Item        CHAR(30),
+   PRIMARY KEY(Receipt, Ordinal),
    FOREIGN KEY(Receipt) REFERENCES receipts(ReceiptNumber),
    FOREIGN KEY(Item) REFERENCES goods(Id)
 );

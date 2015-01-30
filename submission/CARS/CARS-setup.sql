@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE continents(
    ContId      INT PRIMARY KEY,
    Continent   CHAR(30)

@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
 VALUES('Aberdeen ', 'APG', 'Phillips AAF ', 'United States ', 'US');
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 

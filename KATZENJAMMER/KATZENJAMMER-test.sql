@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 SELECT * FROM Band;
 SELECT COUNT(*) FROM Band;
 

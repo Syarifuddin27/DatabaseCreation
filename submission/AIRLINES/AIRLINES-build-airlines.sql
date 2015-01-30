@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
 VALUES(1, 'United Airlines', 'UAL', 'USA');
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 

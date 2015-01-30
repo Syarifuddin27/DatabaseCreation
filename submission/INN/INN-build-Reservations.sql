@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO reservations (Code, Room, CheckIn, CheckOut, Rate, LastName, FirstName, Adults, Kids) 
 VALUES(47496, 'RND', '2010/01/01', '2010/01/06', 150.00, 'KLEVER', 'ERASMO', 1, 0);
 INSERT INTO reservations (Code, Room, CheckIn, CheckOut, Rate, LastName, FirstName, Adults, Kids) 

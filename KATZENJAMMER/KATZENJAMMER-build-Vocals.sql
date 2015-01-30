@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO Vocals (SongId, Bandmate, Type) 
 VALUES(2, 1, 'lead');
 INSERT INTO Vocals (SongId, Bandmate, Type) 

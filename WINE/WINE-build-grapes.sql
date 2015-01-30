@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO grapes (ID, Grape, Color) 
 VALUES(1, 'Barbera', 'Red');
 INSERT INTO grapes (ID, Grape, Color) 

@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Jeffrey McGovern
+# jmcgover@calpoly.edu
+# Lab 2 
+# CPE 365
+
+
 set -o nounset
 
 campuses="Campuses.csv"
@@ -31,7 +37,7 @@ do
    Year=$(echo $Year | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO campuses (Id, Campus, Location, County, Year) "
-   insCmd="$insCmd \nVALUES($Id, $Campus, $Location, $County, $Year);"
+   insCmd="$insCmd \nVALUES($Id, $Campus, $Location, $County, $Year);SHOW WARNINGS;"
    echo -e $insCmd >>  $campusesBuild
    OLDIFS=$IFS
    IFS=,
@@ -74,7 +80,7 @@ do
    Degrees=$(echo $Degrees | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO degrees (Year, Campus, Degrees) "
-   insCmd="$insCmd \nVALUES($Year, $Campus, $Degrees);"
+   insCmd="$insCmd \nVALUES($Year, $Campus, $Degrees);SHOW WARNINGS;"
    echo -e $insCmd >>  $degreesBuild
 
    OLDIFS=$IFS
@@ -96,7 +102,7 @@ do
    Graduate=$(echo $Graduate | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO disciplineEnrollments (Campus, Discipline, Year, Undergraduate, Graduate) "
-   insCmd="$insCmd \nVALUES($Campus, $Discipline, $Year, $Undergraduate, $Graduate);"
+   insCmd="$insCmd \nVALUES($Campus, $Discipline, $Year, $Undergraduate, $Graduate);SHOW WARNINGS;"
    echo -e $insCmd >>  $disciplineEnrollmentsBuild
    OLDIFS=$IFS
    IFS=,
@@ -117,7 +123,7 @@ do
    FTE=$(echo $FTE | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO enrollments (Campus, Year, TotalEnrollment_AY, FTE_AY) "
-   insCmd="$insCmd \nVALUES($Campus, $Year, $TotalEnrollment, $FTE);"
+   insCmd="$insCmd \nVALUES($Campus, $Year, $TotalEnrollment, $FTE);SHOW WARNINGS;"
    echo -e $insCmd >>  $enrollmentsBuild
    OLDIFS=$IFS
    IFS=,
@@ -133,12 +139,12 @@ fi
 OLDIFS=$IFS
 IFS=,
 [ ! -f $faculty ] && { echo "$faculty file not found"; exit 99; }
-tail -n +2 $faculty  | while read Campus Year Faculty
+tail -n +3 $faculty  | while read Campus Year Faculty
 do
    Faculty=$(echo $Faculty | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO faculty (Campus, Year, Faculty) "
-   insCmd="$insCmd \nVALUES($Campus, $Year, $Faculty);"
+   insCmd="$insCmd \nVALUES($Campus, $Year, $Faculty);SHOW WARNINGS;"
    echo -e $insCmd >>  $facultyBuild
    OLDIFS=$IFS
    IFS=,
@@ -159,7 +165,7 @@ do
    CampusFee=$(echo $CampusFee | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO csuFees (Campus, Year, CampusFee) "
-   insCmd="$insCmd \nVALUES($Campus, $Year, $CampusFee);"
+   insCmd="$insCmd \nVALUES($Campus, $Year, $CampusFee);SHOW WARNINGS;"
    echo -e $insCmd >>  $feesBuild
    OLDIFS=$IFS
    IFS=,

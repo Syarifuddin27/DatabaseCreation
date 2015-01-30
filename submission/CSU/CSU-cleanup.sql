@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 DROP TABLE csuFees;
 DROP TABLE faculty;
 DROP TABLE enrollments;

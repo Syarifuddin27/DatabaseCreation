@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE goods(
    Id          CHAR(30) PRIMARY KEY,
    Flavor      CHAR(30),

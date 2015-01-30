@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO teachers (LastName, FirstName, Classroom) 
 VALUES('MACROSTIE', 'MIN', 101);
 INSERT INTO teachers (LastName, FirstName, Classroom) 

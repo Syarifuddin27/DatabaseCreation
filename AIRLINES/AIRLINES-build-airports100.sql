@@ -1,200 +1,200 @@
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Aberdeen ', 'APG', 'Phillips AAF ', 'United States ', 'US');
+VALUES('Aberdeen ', 'APG', 'Phillips AAF ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Aberdeen ', 'ABR', 'Municipal ', 'United States ', 'US');
+VALUES('Aberdeen ', 'ABR', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Abilene ', 'DYS', 'Dyess AFB ', 'United States ', 'US');
+VALUES('Abilene ', 'DYS', 'Dyess AFB ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Abilene ', 'ABI', 'Municipal ', 'United States ', 'US');
+VALUES('Abilene ', 'ABI', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Abingdon ', 'VJI', 'Virginia Highlands ', 'United States ', 'US');
+VALUES('Abingdon ', 'VJI', 'Virginia Highlands ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Ada ', 'ADT', 'Ada ', 'United States ', 'US');
+VALUES('Ada ', 'ADT', 'Ada ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Adak Island ', 'ADK', 'Adak Island Ns ', 'United States ', 'US');
+VALUES('Adak Island ', 'ADK', 'Adak Island Ns ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Adrian ', 'ADG', 'Lenawee County ', 'United States ', 'US');
+VALUES('Adrian ', 'ADG', 'Lenawee County ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Afton ', 'AFO', 'Municipal ', 'United States ', 'US');
+VALUES('Afton ', 'AFO', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Aiken ', 'AIK', 'Municipal ', 'United States ', 'US');
+VALUES('Aiken ', 'AIK', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Ainsworth ', 'ANW', 'Ainsworth ', 'United States ', 'US');
+VALUES('Ainsworth ', 'ANW', 'Ainsworth ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Akhiok ', 'AKK', 'Akhiok SPB ', 'United States ', 'US');
+VALUES('Akhiok ', 'AKK', 'Akhiok SPB ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Akiachak ', 'KKI', 'Spb ', 'United States ', 'US');
+VALUES('Akiachak ', 'KKI', 'Spb ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Akiak ', 'AKI', 'Akiak ', 'United States ', 'US');
+VALUES('Akiak ', 'AKI', 'Akiak ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Akron CO ' , 'AKO', 'Colorado Plains Regional Airport ', 'United States ', 'US');
+VALUES('Akron CO ' , 'AKO', 'Colorado Plains Regional Airport ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Akron/Canton OH ' , 'CAK', 'Akron/canton Regional ', 'United States ', 'US');
+VALUES('Akron/Canton OH ' , 'CAK', 'Akron/canton Regional ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Akron/Canton ', 'AKC', 'Fulton International ', 'United States ', 'US');
+VALUES('Akron/Canton ', 'AKC', 'Fulton International ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Akutan ', 'KQA', 'Akutan ', 'United States ', 'US');
+VALUES('Akutan ', 'KQA', 'Akutan ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alakanuk ', 'AUK', 'Alakanuk ', 'United States ', 'US');
+VALUES('Alakanuk ', 'AUK', 'Alakanuk ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alameda ', 'NGZ', 'NAS ', 'United States ', 'US');
+VALUES('Alameda ', 'NGZ', 'NAS ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alamogordo ', 'HMN', 'Holloman AFB ', 'United States ', 'US');
+VALUES('Alamogordo ', 'HMN', 'Holloman AFB ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alamogordo ', 'ALM', 'Municipal ', 'United States ', 'US');
+VALUES('Alamogordo ', 'ALM', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alamosa ', 'ALS', 'Municipal ', 'United States ', 'US');
+VALUES('Alamosa ', 'ALS', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Albany ', 'NAB', 'Albany NAS ', 'United States ', 'US');
+VALUES('Albany ', 'NAB', 'Albany NAS ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Albany ', 'ABY', 'Dougherty County ', 'United States ', 'US');
+VALUES('Albany ', 'ABY', 'Dougherty County ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Albany ', 'ALB', 'Albany International ', 'United States ', 'US');
+VALUES('Albany ', 'ALB', 'Albany International ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Albany ', 'CVO', 'Albany ', 'United States ', 'US');
+VALUES('Albany ', 'CVO', 'Albany ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Albert Lea ', 'AEL', 'Albert Lea ', 'United States ', 'US');
+VALUES('Albert Lea ', 'AEL', 'Albert Lea ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Albuquerque ', 'ABQ', 'Albuquerque International ', 'United States ', 'US');
+VALUES('Albuquerque ', 'ABQ', 'Albuquerque International ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Aleknagik ', 'WKK', 'Aleknagik ', 'United States ', 'US');
+VALUES('Aleknagik ', 'WKK', 'Aleknagik ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Aleneva ', 'AED', 'Aleneva ', 'United States ', 'US');
+VALUES('Aleneva ', 'AED', 'Aleneva ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES( 'Alexander City AL ' , 'ALX', 'Thomas C Russell Fld ', 'United States ', 'US');
+VALUES( 'Alexander City AL ' , 'ALX', 'Thomas C Russell Fld ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES( 'Alexandria LA ' , 'AEX', 'Alexandria International ', 'United States ', 'US');
+VALUES( 'Alexandria LA ' , 'AEX', 'Alexandria International ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alexandria ', 'ESF', 'Esler Field ', 'United States ', 'US');
+VALUES('Alexandria ', 'ESF', 'Esler Field ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alexandria ', 'AXN', 'Alexandria ', 'United States ', 'US');
+VALUES('Alexandria ', 'AXN', 'Alexandria ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alexandria Bay ', 'AXB', 'Alexandria Bay ', 'United States ', 'US');
+VALUES('Alexandria Bay ', 'AXB', 'Alexandria Bay ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Algona ', 'AXG', 'Algona ', 'United States ', 'US');
+VALUES('Algona ', 'AXG', 'Algona ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alice ', 'ALI', 'International ', 'United States ', 'US');
+VALUES('Alice ', 'ALI', 'International ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES( 'Aliceville AL ' , 'AIV', 'George Downer ', 'United States ', 'US');
+VALUES( 'Aliceville AL ' , 'AIV', 'George Downer ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alitak ', 'ALZ', 'Alitak SPB ', 'United States ', 'US');
+VALUES('Alitak ', 'ALZ', 'Alitak SPB ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Allakaket ', 'AET', 'Allakaket ', 'United States ', 'US');
+VALUES('Allakaket ', 'AET', 'Allakaket ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alliance ', 'AIA', 'Alliance ', 'United States ', 'US');
+VALUES('Alliance ', 'AIA', 'Alliance ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alma ', 'AMN', 'Gratiot Community ', 'United States ', 'US');
+VALUES('Alma ', 'AMN', 'Gratiot Community ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alpena ', 'APN', 'Alpena County Regional ', 'United States ', 'US');
+VALUES('Alpena ', 'APN', 'Alpena County Regional ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alpine ', 'ALE', 'Alpine ', 'United States ', 'US');
+VALUES('Alpine ', 'ALE', 'Alpine ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alton ', 'ALN', 'Alton ', 'United States ', 'US');
+VALUES('Alton ', 'ALN', 'Alton ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Altus ', 'LTS', 'Altus AFB ', 'United States ', 'US');
+VALUES('Altus ', 'LTS', 'Altus AFB ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Altus ', 'AXS', 'Municipal ', 'United States ', 'US');
+VALUES('Altus ', 'AXS', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Alyeska ', 'AQY', 'Alyeska ', 'United States ', 'US');
+VALUES('Alyeska ', 'AQY', 'Alyeska ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES( 'Amarillo ' , 'AMA', 'Rick Husband Amarillo International ', 'United States ', 'US');
+VALUES( 'Amarillo ' , 'AMA', 'Rick Husband Amarillo International ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Amarillo ', 'TDW', 'Tradewind ', 'United States ', 'US');
+VALUES('Amarillo ', 'TDW', 'Tradewind ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Ambler ', 'ABL', 'Ambler ', 'United States ', 'US');
+VALUES('Ambler ', 'ABL', 'Ambler ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Amchitka ', 'AHT', 'Amchitka ', 'United States ', 'US');
+VALUES('Amchitka ', 'AHT', 'Amchitka ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Amery ', 'AHH', 'Municipal ', 'United States ', 'US');
+VALUES('Amery ', 'AHH', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Ames ', 'AMW', 'Ames ', 'United States ', 'US');
+VALUES('Ames ', 'AMW', 'Ames ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Amityville ', 'AYZ', 'Zahns ', 'United States ', 'US');
+VALUES('Amityville ', 'AYZ', 'Zahns ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Amook ', 'AOS', 'Amook ', 'United States ', 'US');
+VALUES('Amook ', 'AOS', 'Amook ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anacortes ', 'OTS', 'Anacortes ', 'United States ', 'US');
+VALUES('Anacortes ', 'OTS', 'Anacortes ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anacostia ', 'NDV', 'USN Heliport ', 'United States ', 'US');
+VALUES('Anacostia ', 'NDV', 'USN Heliport ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anaheim ', 'ANA', 'Orange County Steel Salvage Heliport ', 'United States ', 'US');
+VALUES('Anaheim ', 'ANA', 'Orange County Steel Salvage Heliport ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anaktuvuk ', 'AKP', 'Anaktuvuk ', 'United States ', 'US');
+VALUES('Anaktuvuk ', 'AKP', 'Anaktuvuk ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anchorage ', 'EDF', 'Elmendorf Afb ', 'United States ', 'US');
+VALUES('Anchorage ', 'EDF', 'Elmendorf Afb ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anchorage ', 'ANC', 'Ted Stevens Anchorage International Airport ', 'United States ', 'US');
+VALUES('Anchorage ', 'ANC', 'Ted Stevens Anchorage International Airport ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anchorage ', 'MRI', 'Merrill Field ', 'United States ', 'US');
+VALUES('Anchorage ', 'MRI', 'Merrill Field ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anderson ', 'AID', 'Municipal ', 'United States ', 'US');
+VALUES('Anderson ', 'AID', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anderson ', 'AND', 'Anderson ', 'United States ', 'US');
+VALUES('Anderson ', 'AND', 'Anderson ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Andrews ', 'ADR', 'Andrews ', 'United States ', 'US');
+VALUES('Andrews ', 'ADR', 'Andrews ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Angel Fire ', 'AXX', 'Angel Fire ', 'United States ', 'US');
+VALUES('Angel Fire ', 'AXX', 'Angel Fire ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Angola ', 'ANQ', 'Tri-State Steuben Cty ', 'United States ', 'US');
+VALUES('Angola ', 'ANQ', 'Tri-State Steuben Cty ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Angoon ', 'AGN', 'Angoon ', 'United States ', 'US');
+VALUES('Angoon ', 'AGN', 'Angoon ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anguilla ', 'RFK', 'Rollang Field ', 'United States ', 'US');
+VALUES('Anguilla ', 'RFK', 'Rollang Field ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Aniak ', 'ANI', 'Aniak ', 'United States ', 'US');
+VALUES('Aniak ', 'ANI', 'Aniak ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anita Bay ', 'AIB', 'Anita Bay ', 'United States ', 'US');
+VALUES('Anita Bay ', 'AIB', 'Anita Bay ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES( 'Ann Arbor MI ' , 'ARB', 'Municipal ', 'United States ', 'US');
+VALUES( 'Ann Arbor MI ' , 'ARB', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Annapolis ', 'ANP', 'Lee ', 'United States ', 'US');
+VALUES('Annapolis ', 'ANP', 'Lee ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Annette Island ', 'ANN', 'Annette Island ', 'United States ', 'US');
+VALUES('Annette Island ', 'ANN', 'Annette Island ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES( 'Anniston AL ' , 'ANB', 'Anniston Metropolitan ', 'United States ', 'US');
+VALUES( 'Anniston AL ' , 'ANB', 'Anniston Metropolitan ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anniston ', 'QAW', 'Ft Mcclellan Bus Trml ', 'United States ', 'US');
+VALUES('Anniston ', 'QAW', 'Ft Mcclellan Bus Trml ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anniston ', 'RLI', 'Reilly AHP ', 'United States ', 'US');
+VALUES('Anniston ', 'RLI', 'Reilly AHP ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anthony ', 'ANY', 'Anthony ', 'United States ', 'US');
+VALUES('Anthony ', 'ANY', 'Anthony ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Antlers ', 'ATE', 'Antlers ', 'United States ', 'US');
+VALUES('Antlers ', 'ATE', 'Antlers ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Anvik ', 'ANV', 'Anvik ', 'United States ', 'US');
+VALUES('Anvik ', 'ANV', 'Anvik ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Apalachicola ', 'AAF', 'Municipal ', 'United States ', 'US');
+VALUES('Apalachicola ', 'AAF', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Apple Valley ', 'APV', 'Apple Valley ', 'United States ', 'US');
+VALUES('Apple Valley ', 'APV', 'Apple Valley ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Appleton ', 'ATW', 'Outagamie County ', 'United States ', 'US');
+VALUES('Appleton ', 'ATW', 'Outagamie County ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Arapahoe ', 'AHF', 'Municipal ', 'United States ', 'US');
+VALUES('Arapahoe ', 'AHF', 'Municipal ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Arcata ', 'ACV', 'Arcata ', 'United States ', 'US');
+VALUES('Arcata ', 'ACV', 'Arcata ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Arctic Village ', 'ARC', 'Arctic Village ', 'United States ', 'US');
+VALUES('Arctic Village ', 'ARC', 'Arctic Village ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Ardmore ', 'AHD', 'Downtown ', 'United States ', 'US');
+VALUES('Ardmore ', 'AHD', 'Downtown ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Ardmore ', 'ADM', 'Ardmore Municipal Arpt ', 'United States ', 'US');
+VALUES('Ardmore ', 'ADM', 'Ardmore Municipal Arpt ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Arlington Heights ', 'JLH', 'US Army Heliport ', 'United States ', 'US');
+VALUES('Arlington Heights ', 'JLH', 'US Army Heliport ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Artesia ', 'ATS', 'Artesia ', 'United States ', 'US');
+VALUES('Artesia ', 'ATS', 'Artesia ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES( 'Neptune ' , 'ARX', 'Asbury Park ', 'United States ', 'US');
+VALUES( 'Neptune ' , 'ARX', 'Asbury Park ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Ashland ', 'ASX', 'Ashland ', 'United States ', 'US');
+VALUES('Ashland ', 'ASX', 'Ashland ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Ashley ', 'ASY', 'Ashley ', 'United States ', 'US');
+VALUES('Ashley ', 'ASY', 'Ashley ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Aspen ', 'ASE', 'Aspen ', 'United States ', 'US');
+VALUES('Aspen ', 'ASE', 'Aspen ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Astoria ', 'AST', 'Astoria ', 'United States ', 'US');
+VALUES('Astoria ', 'AST', 'Astoria ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Athens ', 'AHN', 'Athens ', 'United States ', 'US');
+VALUES('Athens ', 'AHN', 'Athens ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Athens ', 'ATO', 'Ohio University ', 'United States ', 'US');
+VALUES('Athens ', 'ATO', 'Ohio University ', 'United States ', 'US'); SHOW WARNINGS;
 INSERT INTO airports (City, AirportCode, AirportName, Country, CountryAbbrev) 
-VALUES('Athens ', 'MMI', 'McMinn County ', 'United States ', 'US');
+VALUES('Athens ', 'MMI', 'McMinn County ', 'United States ', 'US'); SHOW WARNINGS;

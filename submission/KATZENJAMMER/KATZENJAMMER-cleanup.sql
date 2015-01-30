@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 DROP TABLE Vocals;
 DROP TABLE Performance;
 DROP TABLE Instruments;

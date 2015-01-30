@@ -1,6 +1,9 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE campuses(
    Id          INT PRIMARY KEY,
-   Campus      CHAR(30),
+   Campus      CHAR(60),
    Location    CHAR(30),
    County      CHAR(30),
    Year        INT

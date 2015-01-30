@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO Tracklists (AlbumId, Position, SongId) 
 VALUES(1, 1, 1);
 INSERT INTO Tracklists (AlbumId, Position, SongId) 

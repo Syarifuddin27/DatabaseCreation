@@ -1,24 +1,24 @@
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(1, 'United Airlines', 'UAL', 'USA');
+VALUES(1, 'United Airlines', 'UAL', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(2, 'US Airways', 'USAir', 'USA');
+VALUES(2, 'US Airways', 'USAir', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(3, 'Delta Airlines', 'Delta', 'USA');
+VALUES(3, 'Delta Airlines', 'Delta', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(4, 'Southwest Airlines', 'Southwest', 'USA');
+VALUES(4, 'Southwest Airlines', 'Southwest', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(5, 'American Airlines', 'American', 'USA');
+VALUES(5, 'American Airlines', 'American', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(6, 'Northwest Airlines', 'Northwest', 'USA');
+VALUES(6, 'Northwest Airlines', 'Northwest', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(7, 'Continental Airlines', 'Continental', 'USA');
+VALUES(7, 'Continental Airlines', 'Continental', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(8, 'JetBlue Airways', 'JetBlue', 'USA');
+VALUES(8, 'JetBlue Airways', 'JetBlue', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(9, 'Frontier Airlines', 'Frontier', 'USA');
+VALUES(9, 'Frontier Airlines', 'Frontier', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(10, 'AirTran Airways', 'AirTran', 'USA');
+VALUES(10, 'AirTran Airways', 'AirTran', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(11, 'Allegiant Air', 'Allegiant', 'USA');
+VALUES(11, 'Allegiant Air', 'Allegiant', 'USA'); SHOW WARNINGS;
 INSERT INTO airlines (Id, Airline, Abbreviation, Country) 
-VALUES(12, 'Virgin America', 'Virgin', 'USA');
+VALUES(12, 'Virgin America', 'Virgin', 'USA'); SHOW WARNINGS;

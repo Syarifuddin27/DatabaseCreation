@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO Songs (SongId, Title) 
 VALUES(1, 'Overture');
 INSERT INTO Songs (SongId, Title) 

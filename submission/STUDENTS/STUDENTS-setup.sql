@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE teachers (
    LastName    CHAR(30),
    FirstName   CHAR(30),

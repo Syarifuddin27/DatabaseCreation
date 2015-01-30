@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE rooms(
    RoomId         CHAR(10) PRIMARY KEY,
    roomName       CHAR(30),

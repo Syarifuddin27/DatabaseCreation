@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO modelList (ModelId, Maker, Model) 
 VALUES(1, 1, 'amc');
 INSERT INTO modelList (ModelId, Maker, Model) 

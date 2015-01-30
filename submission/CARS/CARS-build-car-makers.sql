@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO carMakers (Id, Maker, FullName, Country) 
 VALUES(1, 'amc', 'American Motor Company', 1);
 INSERT INTO carMakers (Id, Maker, FullName, Country) 

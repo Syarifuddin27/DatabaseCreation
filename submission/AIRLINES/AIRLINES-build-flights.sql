@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO flights (Airline, FlightNo, SourceAirport, DestAirport) 
 VALUES(1, 28, 'APG', 'ASY');
 INSERT INTO flights (Airline, FlightNo, SourceAirport, DestAirport) 

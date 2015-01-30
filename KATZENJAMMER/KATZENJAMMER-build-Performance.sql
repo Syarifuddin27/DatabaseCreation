@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO Performance (SongId, Bandmate, StagePosition) 
 VALUES(1, 1, 'back');
 INSERT INTO Performance (SongId, Bandmate, StagePosition) 

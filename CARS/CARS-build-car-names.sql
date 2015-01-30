@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO carNames (MakeId, Model, MakeDescription) 
 VALUES(1, 'chevrolet', 'chevrolet chevelle malibu');
 INSERT INTO carNames (MakeId, Model, MakeDescription) 

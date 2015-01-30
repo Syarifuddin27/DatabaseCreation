@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 SELECT * FROM teachers;
 SELECT COUNT(*) FROM teachers;
 

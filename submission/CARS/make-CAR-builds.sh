@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Jeffrey McGovern
+# jmcgover@calpoly.edu
+# Lab 2 
+# CPE 365
+
 set -o nounset
 
 continents="continents.csv"

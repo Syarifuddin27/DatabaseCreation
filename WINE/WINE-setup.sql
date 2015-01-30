@@ -1,10 +1,13 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE grapes (
    ID       INT PRIMARY KEY,
-   Grape    CHAR(30),
+   Grape    CHAR(30) UNIQUE,
    Color    CHAR(30)
 );
 CREATE TABLE appellations (
-   No       INT,
+   No       INT UNIQUE,
    Appellation  CHAR(60) PRIMARY KEY,
    County   CHAR(30),
    State    CHAR(30),
@@ -21,5 +24,6 @@ CREATE TABLE wine (
    Price    INT,
    Score    INT,
    Cases    INT,
+   FOREIGN KEY(Grape) REFERENCES grapes(Grape),
    FOREIGN KEY(Appellation) REFERENCES appellations(Appellation)
 );

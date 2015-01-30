@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO wine (No,Grape,Winery,Appellation,Name,Year,Price,Score,Cases) 
 VALUES(1,'Zinfandel','Robert Biale','St. Helena','Old Kraft Vineyard',2008,44,93,275);
 INSERT INTO wine (No,Grape,Winery,Appellation,Name,Year,Price,Score,Cases) 

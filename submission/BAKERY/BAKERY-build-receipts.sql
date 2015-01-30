@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 INSERT INTO receipts (ReceiptNumber, Date, CustomerId) 
 VALUES(18129, '2007/10/28', 15);
 INSERT INTO receipts (ReceiptNumber, Date, CustomerId) 

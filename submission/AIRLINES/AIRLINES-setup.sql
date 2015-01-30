@@ -1,3 +1,6 @@
+-- Jeffrey McGovern
+-- jmcgover@calpoly.edu
+
 CREATE TABLE airports (
    City           CHAR(30),
    AirportCode    CHAR(4),
