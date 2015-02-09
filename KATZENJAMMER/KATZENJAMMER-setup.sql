@@ -12,7 +12,7 @@ CREATE TABLE Songs(
 );
 CREATE TABLE Albums(
    AId         INT PRIMARY KEY,
-   Title       CHAR(30),
+   Title       CHAR(60),
    Year        INT,
    Label       CHAR(30),
    Type        CHAR(30)
@@ -29,7 +29,7 @@ CREATE TABLE Instruments(
    SongId      INT,
    BandmateId  INT,
    Instrument  CHAR(30),
-   PRIMARY KEY(SongId, Instrument),
+   PRIMARY KEY(SongId, BandmateId, Instrument),
    FOREIGN KEY(SongId) REFERENCES Songs(SongId),
    FOREIGN KEY(BandmateId) REFERENCES Band(Id)
 );

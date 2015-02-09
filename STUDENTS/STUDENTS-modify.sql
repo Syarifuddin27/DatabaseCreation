@@ -1,3 +1,6 @@
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+
 ALTER TABLE list ADD COLUMN GPA DOUBLE AFTER Classroom;
 
 DELETE FROM list WHERE grade != 1 AND grade != 2;
@@ -13,5 +16,3 @@ UPDATE list SET GPA = GPA + 0.7 WHERE FirstName="SUMMER" AND LastName="LAPLANT";
 UPDATE list SET GPA = GPA * 1.25 WHERE FirstName="KERI" AND LastName="TRAYWICK";
 
 SELECT * FROM list ORDER BY GPA, Grade, LastName;
-
--- UPDATE list SET GPA = 

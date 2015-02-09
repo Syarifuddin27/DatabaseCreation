@@ -1,0 +1,7 @@
+-- LAB3 --
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+-- 29 January 2014
+lab3.tar.gz was 'tar'd with the following command:
+
+tar cfzv lab3.tar.gz STUDENTS/ CARS/ WINE/ KATZENJAMMER/ README

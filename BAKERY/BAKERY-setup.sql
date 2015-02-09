@@ -5,7 +5,7 @@ CREATE TABLE goods(
    Id          CHAR(30) PRIMARY KEY,
    Flavor      CHAR(30),
    Food        CHAR(30),
-   Price       DOUBLE
+   Price       FLOAT 
 );
 
 CREATE TABLE customers(
@@ -21,11 +21,12 @@ CREATE TABLE receipts(
    FOREIGN KEY(CustomerId) REFERENCES customers(Id)
 );
 
+-- ON DELETE CASCADE 
 CREATE TABLE items(
    Receipt     INT,
    Ordinal     INT,
    Item        CHAR(30),
    PRIMARY KEY(Receipt, Ordinal),
    FOREIGN KEY(Receipt) REFERENCES receipts(ReceiptNumber),
-   FOREIGN KEY(Item) REFERENCES goods(Id)
+   CONSTRAINT `ItemReference` FOREIGN KEY(Item) REFERENCES goods(Id)
 );
