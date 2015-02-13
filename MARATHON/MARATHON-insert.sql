@@ -1,1 +1,1 @@
-source MARATHON/MARATHON-build-marathon.sql
+source MARATHON-build-marathon.sql

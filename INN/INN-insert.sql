@@ -1,2 +1,2 @@
-source INN/INN-build-Rooms.sql
-source INN/INN-build-Reservations.sql
+source INN-build-Rooms.sql
+source INN-build-Reservations.sql

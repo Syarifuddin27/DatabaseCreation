@@ -1,3 +1,3 @@
-source AIRLINES/AIRLINES-build-airports100.sql
-source AIRLINES/AIRLINES-build-airlines.sql
-source AIRLINES/AIRLINES-build-flights.sql
+source AIRLINES-build-airports100.sql
+source AIRLINES-build-airlines.sql
+source AIRLINES-build-flights.sql

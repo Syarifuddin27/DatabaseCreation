@@ -1,7 +1,7 @@
-source CSU/CSU-build-Campuses.sql
-source CSU/CSU-build-disciplines.sql
-source CSU/CSU-build-degrees.sql
-source CSU/CSU-build-discipline-enrollments.sql
-source CSU/CSU-build-enrollments.sql
-source CSU/CSU-build-faculty.sql
-source CSU/CSU-build-csu-fees.sql
+source CSU-build-Campuses.sql
+source CSU-build-disciplines.sql
+source CSU-build-degrees.sql
+source CSU-build-discipline-enrollments.sql
+source CSU-build-enrollments.sql
+source CSU-build-faculty.sql
+source CSU-build-csu-fees.sql

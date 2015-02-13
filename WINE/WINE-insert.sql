@@ -1,3 +1,3 @@
-source WINE/WINE-build-grapes.sql
-source WINE/WINE-build-appellations.sql
-source WINE/WINE-build-wine.sql
+source WINE-build-grapes.sql
+source WINE-build-appellations.sql
+source WINE-build-wine.sql

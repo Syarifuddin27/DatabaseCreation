@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tar cfzv lab4.tar.gz AIRLINES/ BAKERY/ CARS/ CSU/ INN/ KATZENJAMMER/ MARATHON/ STUDENTS/ WINE/ README
