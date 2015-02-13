@@ -8,7 +8,7 @@ CREATE TABLE Band(
 );
 CREATE TABLE Songs(
    SongId      INT PRIMARY KEY,
-   Title       CHAR(30)
+   Title       CHAR(60)
 );
 CREATE TABLE Albums(
    AId         INT PRIMARY KEY,

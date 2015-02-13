@@ -37,7 +37,7 @@ do
    Lastname=$(echo $Lastname | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO Band (Id, Firstname, Lastname)"
-   insCmd="$insCmd \nVALUES($Id, $Firstname, $Lastname);"
+   insCmd="$insCmd \nVALUES($Id, $Firstname, $Lastname);SHOW WARNINGS;"
    echo -e $insCmd >>  $bandBuild
    OLDIFS=$IFS
    IFS=,
@@ -57,7 +57,7 @@ do
    Title=$(echo $Title | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO Songs (SongId, Title)"
-   insCmd="$insCmd \nVALUES($SongId, $Title);"
+   insCmd="$insCmd \nVALUES($SongId, $Title);SHOW WARNINGS;"
    echo -e $insCmd >>  $songsBuild
    OLDIFS=$IFS
    IFS=,
@@ -77,7 +77,7 @@ do
    Type=$(echo $Type | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO Albums (AId, Title, Year, Label, Type)"
-   insCmd="$insCmd \nVALUES($AId, $Title, $Year, $Label, $Type);"
+   insCmd="$insCmd \nVALUES($AId, $Title, $Year, $Label, $Type);SHOW WARNINGS;"
    echo -e $insCmd >>  $albumsBuild
    OLDIFS=$IFS
    IFS=,
@@ -97,7 +97,7 @@ do
    SongId=$(echo $SongId | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO Tracklists (AlbumId, Position, SongId)"
-   insCmd="$insCmd \nVALUES($AlbumId, $Position, $SongId);"
+   insCmd="$insCmd \nVALUES($AlbumId, $Position, $SongId);SHOW WARNINGS;"
    echo -e $insCmd >>  $tracklistsBuild
    OLDIFS=$IFS
    IFS=,
@@ -117,7 +117,7 @@ do
    Instrument=$(echo $Instrument | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO Instruments (SongId, BandmateId, Instrument)"
-   insCmd="$insCmd \nVALUES($SongId, $BandmateId, $Instrument);"
+   insCmd="$insCmd \nVALUES($SongId, $BandmateId, $Instrument);SHOW WARNINGS;"
    echo -e $insCmd >>  $instrumentsBuild
    OLDIFS=$IFS
    IFS=,
@@ -137,7 +137,7 @@ do
    StagePosition=$(echo $StagePosition | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO Performance (SongId, Bandmate, StagePosition)"
-   insCmd="$insCmd \nVALUES($SongId, $BandmateId, $StagePosition);"
+   insCmd="$insCmd \nVALUES($SongId, $BandmateId, $StagePosition);SHOW WARNINGS;"
    echo -e $insCmd >>  $performanceBuild
    OLDIFS=$IFS
    IFS=,
@@ -157,7 +157,7 @@ do
    Type=$(echo $Type | tr -d '\r')
    IFS=$OLDIFS
    insCmd="INSERT INTO Vocals (SongId, Bandmate, Type)"
-   insCmd="$insCmd \nVALUES($SongId, $BandmateId, $Type);"
+   insCmd="$insCmd \nVALUES($SongId, $BandmateId, $Type);SHOW WARNINGS;"
    echo -e $insCmd >>  $vocalsBuild
    OLDIFS=$IFS
    IFS=,

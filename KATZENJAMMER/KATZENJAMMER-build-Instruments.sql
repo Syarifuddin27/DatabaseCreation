@@ -1,273 +1,270 @@
--- Jeffrey McGovern
--- jmcgover@calpoly.edu
-
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(1, 1, 'trumpet');
+VALUES(1, 1, 'trumpet');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(1, 2, 'keyboard');
+VALUES(1, 2, 'keyboard');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(1, 3, 'accordion');
+VALUES(1, 3, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(1, 4, 'bass balalaika');
+VALUES(1, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(2, 1, 'trumpet');
+VALUES(2, 1, 'trumpet');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(2, 2, 'drums');
+VALUES(2, 2, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(2, 3, 'guitar');
+VALUES(2, 3, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(2, 4, 'bass balalaika');
+VALUES(2, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(3, 1, 'drums');
+VALUES(3, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(3, 1, 'ukalele');
+VALUES(3, 1, 'ukalele');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(3, 2, 'banjo');
+VALUES(3, 2, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(3, 3, 'bass balalaika');
+VALUES(3, 3, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(3, 4, 'keyboards');
+VALUES(3, 4, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(4, 1, 'drums');
+VALUES(4, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(4, 2, 'ukalele');
+VALUES(4, 2, 'ukalele');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(4, 3, 'accordion');
+VALUES(4, 3, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(4, 4, 'bass balalaika');
+VALUES(4, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(5, 1, 'drums');
+VALUES(5, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(5, 2, 'keyboards');
+VALUES(5, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(5, 3, 'guitar');
+VALUES(5, 3, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(5, 4, 'bass balalaika');
+VALUES(5, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(6, 1, 'xylophone');
+VALUES(6, 1, 'xylophone');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(6, 2, 'guitar');
+VALUES(6, 2, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(6, 3, 'keyboards');
+VALUES(6, 3, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(6, 4, 'mandolin');
+VALUES(6, 4, 'mandolin');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(7, 1, 'drums');
+VALUES(7, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(7, 2, 'keyboards');
+VALUES(7, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(7, 3, 'guitar');
+VALUES(7, 3, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(7, 4, 'bass balalaika');
+VALUES(7, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(8, 1, 'trumpet');
+VALUES(8, 1, 'trumpet');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(8, 1, 'drums');
+VALUES(8, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(8, 2, 'keyboards');
+VALUES(8, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(8, 3, 'accordion');
+VALUES(8, 3, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(8, 4, 'bass balalaika');
+VALUES(8, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(9, 1, 'xylophone');
+VALUES(9, 1, 'xylophone');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(9, 2, 'keyboards');
+VALUES(9, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(9, 3, 'bass balalaika');
+VALUES(9, 3, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(9, 4, 'accordion');
+VALUES(9, 4, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(10, 1, 'guitar');
+VALUES(10, 1, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(10, 1, 'harmonica');
+VALUES(10, 1, 'harmonica');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(10, 2, 'bass balalaika');
+VALUES(10, 2, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(10, 3, 'mandolin');
+VALUES(10, 3, 'mandolin');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(10, 4, 'banjo');
+VALUES(10, 4, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(11, 1, 'bass balalaika');
+VALUES(11, 1, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(11, 2, 'keyboards');
+VALUES(11, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(11, 3, 'accordion');
+VALUES(11, 3, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(11, 4, 'drums');
+VALUES(11, 4, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(12, 1, 'bass balalaika');
+VALUES(12, 1, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(12, 2, 'accordion');
+VALUES(12, 2, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(12, 3, 'keyboards');
+VALUES(12, 3, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(12, 4, 'mandolin');
+VALUES(12, 4, 'mandolin');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(13, 1, 'drums');
+VALUES(13, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(13, 2, 'guitar');
+VALUES(13, 2, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(13, 2, 'plastic kazoo');
+VALUES(13, 2, 'plastic kazoo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(13, 3, 'mandolin');
+VALUES(13, 3, 'mandolin');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(13, 4, 'bass balalaika');
+VALUES(13, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(14, 1, 'drums');
+VALUES(14, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(14, 2, 'keyboards');
+VALUES(14, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(14, 3, 'keyboards');
+VALUES(14, 3, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(14, 4, 'accordion');
+VALUES(14, 4, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(15, 1, 'guitar');
+VALUES(15, 1, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(15, 2, 'bass balalaika');
+VALUES(15, 2, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(15, 3, 'xylophone');
+VALUES(15, 3, 'xylophone');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(15, 3, 'accordion');
+VALUES(15, 3, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(15, 3, 'harmonica');
+VALUES(15, 3, 'harmonica');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(15, 4, 'mandolin');
+VALUES(15, 4, 'mandolin');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(15, 4, 'drums');
+VALUES(15, 4, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(16, 1, 'washboard');
+VALUES(16, 1, 'washboard');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(16, 2, 'ukalele');
+VALUES(16, 2, 'ukalele');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(16, 3, 'banjo');
+VALUES(16, 3, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(16, 4, 'bass balalaika');
+VALUES(16, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(17, 1, 'drums');
+VALUES(17, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(17, 2, 'guitar');
+VALUES(17, 2, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(17, 3, 'keyboards');
+VALUES(17, 3, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(17, 4, 'bass balalaika');
+VALUES(17, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(18, 1, 'keyboards');
+VALUES(18, 1, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(18, 2, 'banjo');
+VALUES(18, 2, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(18, 3, 'keyboards');
+VALUES(18, 3, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(18, 4, 'xylophone');
+VALUES(18, 4, 'xylophone');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(19, 1, 'banjo');
+VALUES(19, 1, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(19, 2, 'bass balalaika');
+VALUES(19, 2, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(19, 3, 'mandolin');
+VALUES(19, 3, 'mandolin');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(19, 4, 'drums');
+VALUES(19, 4, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(19, 4, 'accordion');
+VALUES(19, 4, 'accordion');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(20, 1, 'keyboards');
+VALUES(20, 1, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(20, 2, 'drums');
+VALUES(20, 2, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(20, 3, 'guitar');
+VALUES(20, 3, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(20, 4, 'bass balalaika');
+VALUES(20, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(21, 1, 'trumpet');
+VALUES(21, 1, 'trumpet');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(21, 1, 'keyboards');
+VALUES(21, 1, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(21, 2, 'keyboards');
+VALUES(21, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(21, 3, 'banjo');
+VALUES(21, 3, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(21, 4, 'xylophone');
+VALUES(21, 4, 'xylophone');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(21, 4, 'mandoline');
+VALUES(21, 4, 'mandoline');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(22, 1, 'guitar');
+VALUES(22, 1, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(22, 2, 'drums');
+VALUES(22, 2, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(22, 3, 'banjo');
+VALUES(22, 3, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(22, 4, 'bass balalaika');
+VALUES(22, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(23, 1, 'domra');
+VALUES(23, 1, 'domra');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(23, 2, 'ukalele');
+VALUES(23, 2, 'ukalele');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(23, 3, 'mandolin');
+VALUES(23, 3, 'mandolin');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(23, 4, 'bass balalaika');
+VALUES(23, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(24, 1, 'drums');
+VALUES(24, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(24, 2, 'guitar');
+VALUES(24, 2, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(24, 3, 'keyboards');
+VALUES(24, 3, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(24, 4, 'bass balalaika');
+VALUES(24, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(25, 1, 'drums');
+VALUES(25, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(26, 1, 'drums');
+VALUES(26, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(26, 2, 'guitar');
+VALUES(26, 2, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(26, 3, 'banjo');
+VALUES(26, 3, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(26, 4, 'bass balalaika');
+VALUES(26, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(27, 1, 'drums');
+VALUES(27, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(27, 2, 'guitar');
+VALUES(27, 2, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(27, 3, 'banjo');
+VALUES(27, 3, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(27, 4, 'bass balalaika');
+VALUES(27, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(28, 1, 'drums');
+VALUES(28, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(28, 2, 'bass balalaika');
+VALUES(28, 2, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(28, 3, 'guitar');
+VALUES(28, 3, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(28, 4, 'mandolin');
+VALUES(28, 4, 'mandolin');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(29, 1, 'drums');
+VALUES(29, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(29, 2, 'keyboards');
+VALUES(29, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(29, 3, 'guitar');
+VALUES(29, 3, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(29, 4, 'bass balalaika');
+VALUES(29, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(30, 1, 'drums');
+VALUES(30, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(30, 2, 'keyboards');
+VALUES(30, 2, 'keyboards');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(30, 3, 'guitar');
+VALUES(30, 3, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(30, 4, 'bass balalaika');
+VALUES(30, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(31, 1, 'drums');
+VALUES(31, 1, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(31, 2, 'guitar');
+VALUES(31, 2, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(31, 3, 'ukalele');
+VALUES(31, 3, 'ukalele');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(31, 4, 'bass balalaika');
+VALUES(31, 4, 'bass balalaika');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(32, 1, 'guitar');
+VALUES(32, 1, 'guitar');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(32, 2, 'banjo');
+VALUES(32, 2, 'banjo');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(32, 3, 'drums');
+VALUES(32, 3, 'drums');SHOW WARNINGS;
 INSERT INTO Instruments (SongId, BandmateId, Instrument) 
-VALUES(32, 4, 'bass balalaika');
+VALUES(32, 4, 'bass balalaika');SHOW WARNINGS;
