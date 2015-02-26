@@ -1,3 +1,6 @@
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+
 -- BAK 1
 SELECT DISTINCT
    r1.Date
@@ -35,17 +38,17 @@ SELECT DISTINCT
       LastName
 ;
 -- BAK 3
-SELECT DISTINCT
-   FirstName,
-   LastName
-   FROM
-      receipts r,
-      customers c
-   WHERE r.CustomerId = c.Id
-      && NOT (r.Date >= "2007-10-14" && r.Date <= "2007-10-19")
-   ORDER BY
-      LastName
-;
+-- SELECT DISTINCT
+--   FirstName,
+--   LastName
+--   FROM
+--      receipts r,
+--      customers c
+--   WHERE r.CustomerId = c.Id
+--      && NOT (r.Date >= "2007-10-14" && r.Date <= "2007-10-19")
+--   ORDER BY
+--      LastName
+-- ;
 -- BAK 4
 SELECT 
    Date

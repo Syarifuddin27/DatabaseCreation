@@ -1,3 +1,6 @@
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+
 -- CAR 1
 SELECT
    n.MakeDescription,

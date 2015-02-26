@@ -1,3 +1,6 @@
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+
 -- INN 1
 SELECT DISTINCT
    ro.roomName

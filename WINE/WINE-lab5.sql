@@ -1,3 +1,6 @@
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+
 -- WIN 1
 SELECT
 w.Grape,

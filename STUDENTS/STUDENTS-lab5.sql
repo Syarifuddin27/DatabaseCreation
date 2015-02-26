@@ -1,3 +1,6 @@
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+
 -- STU 1
 SELECT 
    stu.FirstName,

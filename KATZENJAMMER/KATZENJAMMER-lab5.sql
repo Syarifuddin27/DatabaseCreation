@@ -1,3 +1,6 @@
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+
 -- KAT 1
 SELECT
    COUNT(Instrument)

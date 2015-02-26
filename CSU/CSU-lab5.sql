@@ -1,3 +1,6 @@
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+
 -- CSU 1
 SELECT 
       SUM(Degrees)
