@@ -1,0 +1,7 @@
+-- LAB 5 --
+-- Jeff McGovern
+-- jmcgover@calpoly.edu
+-- 19 February 2015
+
+These .sql scripts use '&&' instead of 'AND' for boolean conditions. It works
+and is not the same as bitwise AND.

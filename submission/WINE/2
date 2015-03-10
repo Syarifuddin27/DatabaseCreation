@@ -1,0 +1,32 @@
+#!/bin/bash
+
+set -o nounset
+
+grapes="grapes.csv"
+appelations="appelations.csv"
+wine="wine.csv"
+
+grapesBuild="WINE-build-grapes.sql"
+appelationsBuild="WINE-build-appelations.sql"
+wineBuild="WINE-build-wine.sql"
+
+##-----------marathon------------###==>
+if [ -a $grapesBuild ] ; then
+   echo "Deleting $grapesBuild..."
+   rm -v $grapesBuild
+fi
+OLDIFS=$IFS
+IFS=,
+[ ! -f $grapes ] && { echo "$grapes file not found"; exit 99; }
+tail -n +2 $grapes  | while read ID Grape Color
+do
+   Color=$(echo $Color | tr -d '\r')
+   IFS=$OLDIFS
+   insCmd="INSERT INTO grapes (ID, Grape, Color)"
+   insCmd="$insCmd \nVALUES($ID, $Grape, $Color);"
+   echo -e $insCmd >>  $grapesBuild
+   OLDIFS=$IFS
+   IFS=,
+done
+IFS=$OLDIFS
+#<==

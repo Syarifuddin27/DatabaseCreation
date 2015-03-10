@@ -1,4 +1,4 @@
--- LAB 6 --
 -- Jeff McGovern
 -- jmcgover@calpoly.edu
--- 27 February 2015
+
+source MARATHON-build-marathon.sql
